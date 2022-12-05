@@ -9,6 +9,7 @@ Feature: Boat Quote Validation
     When click start quote
     Then user will be in about you page
     And title of the page will be <Information About You>
+0
 
   @steps
   Scenario: boat quote page steps
